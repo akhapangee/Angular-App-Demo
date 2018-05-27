@@ -1,0 +1,17 @@
+Then install the Angular CLI globally.
+npm install -g @angular/cli
+
+Create new project
+ng new my-app
+
+ng help
+cd PROJECT-NAME
+
+To run app
+Go to angular app
+ng serve
+
+
+to read
+Angular observables
+rx js
